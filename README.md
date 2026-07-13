@@ -6,4 +6,6 @@ Lastly, I am tryinig to make [reactive programming](https://en.wikipedia.org/wik
 
 I am currently available for hire! If you are in San Diego or want a remote worker, feel free to reach out to me! You can find my resume [here.](https://registry.jsonresume.org/thyrgle) I intend on updating it frequently (I am still getting used to the JSON Resume Schema)!
 
+For fun, I've started on my quest of OCaml + Raylib game development and I stream my progress on [Twitch](https://www.twitch.tv/thyrgle) every Saturday from 2pm - 3:30pm PDT.
+
 If you really like [my ideas](https://thyrgle.github.io/) and my open source software, consider [funding my coffee additction.](https://www.paypal.com/donate/?business=9ZQ9S6RJBVATY&no_recurring=0&currency_code=USD) (No pressure though!)
