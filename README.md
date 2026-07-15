@@ -1,4 +1,4 @@
-**I am currently available for hire! If you are in San Diego or want a remote worker, feel free to reach out to me! You can find my resume [here.](https://registry.jsonresume.org/thyrgle) I intend on updating it frequently (I am still getting used to the JSON Resume Schema)!**
+**I am currently available for hire! If you are in San Diego or want a remote worker, feel free to reach out to me! You can find my resume [here.](https://registry.jsonresume.org/thyrgle) I update it frequently!**
 
 Hi! I am a software developer and mathematician currently in San Diego, California. I make and publish a lot of open source components for games which have been collected under the [Modular Game Components](https://github.com/Modular-Game-Components) organization. The goal is to fill the gap between game *frameworks* and game *engines* by providing small (but useful) game libraries that adhere to the [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).
 
