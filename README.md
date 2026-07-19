@@ -7,7 +7,7 @@ Mathematician & Software Engineer based in San Diego, CA. I build small, sharp o
 ---
 
 ## 🎮 Modular Game Components
-I publish small, composable open-source libraries for game development under [Modular-Game-Components](https://github.com/Modular-Game-Components) — filling the gap between game *frameworks* and full *engines*.
+I publish small, composable open-source libraries for game development under [Modular Game Components](https://github.com/Modular-Game-Components) — filling the gap between game *frameworks* and full *engines*.
 
 ## 🔁 Reactive Programming, Everywhere
 I'm building "dead simple" reactive programming into three different languages. Define *terms*, compose them into formulae, and attach functions that fire automatically when values change:
