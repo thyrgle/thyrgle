@@ -21,7 +21,3 @@ A (semi-serious) scoreboard for open problems in mathematics — [conjecscore.or
 
 ## 🐫 Currently Streaming
 Learning OCaml + Raylib game dev live on [Twitch](https://www.twitch.tv/thyrgle), Saturdays 2–3:30pm PDT.
-
----
-
-☕ If you like what I make, you can [fund my coffee addiction](https://www.paypal.com/donate/?business=9ZQ9S6RJBVATY&no_recurring=0&currency_code=USD) — no pressure.
