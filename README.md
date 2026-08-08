@@ -19,5 +19,5 @@ I'm building "dead simple" reactive programming into three different languages. 
 ## 🧮 conjecscore.org
 A (semi-serious) scoreboard for open problems in mathematics — [conjecscore.org](https://conjecscore.org/) rates how close the world is to solving them. Built for fun and to spread exposure to unsolved problems.
 
-## 🐫 Currently Streaming
-Learning OCaml + Raylib game dev live on [Twitch](https://www.twitch.tv/thyrgle), Saturdays 2–3:30pm PDT.
+## Currently Streaming
+Learning how to play games on [Twitch](https://www.twitch.tv/thyrgle), Saturdays 2–3:30pm PDT. Soon I'll start learning how to mod games too!
