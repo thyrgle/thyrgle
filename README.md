@@ -10,7 +10,7 @@ Mathematician & Software Engineer based in San Diego, CA. I build small, sharp o
 I publish small, composable open-source libraries for game development under [Modular Game Components](https://github.com/Modular-Game-Components) — filling the gap between game *frameworks* and full *engines*.
 
 ## 🔁 rxdt labs
-At [rxdt labs](https://github.com/rxdt-labs) I build "dead simple" reactive programming libraries. Define *terms*, compose them into *formulae*, and attach functions that fire *automatically* when values change.
+At [rxdt labs](https://rxdt-labs.github.io/) I build "dead simple" reactive programming libraries. Define *terms*, compose them into *formulae*, and attach functions that fire *automatically* when values change.
 
 ## 🧮 conjecscore.org
 A (semi-serious) scoreboard for open problems in mathematics — [conjecscore.org](https://conjecscore.org/) rates how close the world is to solving them. Built for fun and to spread exposure to unsolved problems.
