@@ -2,7 +2,7 @@
 
 Mathematician & Software Engineer based in San Diego, CA. I build small, sharp open-source tools rather than big frameworks — heavily inspired by the Unix Philosophy.
 
-🟢 **Available for hire** — remote or San Diego-based. [Resume](https://registry.jsonresume.org/thyrgle) · [Website](https://thyrgle.github.io/)
+[Resume](https://registry.jsonresume.org/thyrgle) · [Website](https://thyrgle.github.io/)
 
 ---
 
