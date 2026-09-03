@@ -9,6 +9,7 @@ Mathematician & Software Engineer based in San Diego, CA. I build small, sharp o
 ## Some Goals of Mine
 
 - Get 100 (cumulative) stars on GitHub.
+- Get at least 1 GitHub sponsor.
 - Make a game.
 - Get out of pools at some Rivals of Aether Tournament.
 - Get out of pools at some climbing tournament.
