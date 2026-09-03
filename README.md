@@ -6,6 +6,15 @@ Mathematician & Software Engineer based in San Diego, CA. I build small, sharp o
 
 ---
 
+## Some Goals of Mine
+
+- Get 100 (cumulative) stars on GitHub.
+- Make a game.
+- Get out of pools at some Rivals of Aether Tournament.
+- Get out of pools at some climbing tournament.
+
+---
+
 ## 🎮 Modular Game Components
 I publish small, composable open-source libraries for game development under [Modular Game Components](https://github.com/Modular-Game-Components) — filling the gap between game *frameworks* and full *engines*.
 
