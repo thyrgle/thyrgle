@@ -1,5 +1,7 @@
 # Hi, I'm Christopher 👋
 
+![Profile View Count](https://komarev.com/ghpvc/?username=thyrgle)
+
 Mathematician & Software Engineer based in San Diego, CA. I build small, sharp open-source tools rather than big frameworks — heavily inspired by the Unix Philosophy.
 
 [Resume](https://registry.jsonresume.org/thyrgle) · [Website](https://thyrgle.github.io/)
