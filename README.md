@@ -6,6 +6,8 @@ Mathematician & Software Engineer based in San Diego, CA. I build small, sharp o
 
 [Resume](https://registry.jsonresume.org/thyrgle) · [Website](https://thyrgle.github.io/)
 
+[![Christopher's GitHub stats](https://github-stats-extended.vercel.app/api?username=thyrgle)](https://github.com/stats-organization/github-stats-extended)
+
 ---
 
 ## Some Goals of Mine
